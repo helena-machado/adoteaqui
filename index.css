@@ -138,6 +138,10 @@ footer {
     font-size: 15px;
 }
 
+.rodape:hover {
+    color: #ffffff;
+}
+
 .redes {
     display: flex;
     justify-content: center;
